@@ -1,0 +1,16 @@
+name: LibunitCI
+
+on: push
+
+jobs:
+  libunit:
+    runs-on: macos-latest
+
+    steps:
+
+      - name: checkout git repository
+        uses: actions/checkout@v2
+
+      - name: run test
+        shell: bash
+        run: cd real_tests && make test
