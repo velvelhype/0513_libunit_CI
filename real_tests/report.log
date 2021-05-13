@@ -1,0 +1,26 @@
+	Basic test          : [OK]		3282 ms
+	Long string test    : [OK]		2374 ms
+	One letter test     : [OK]		2269 ms
+	Zero length test    : [OK]		2148 ms
+	Non-printable test  : [OK]		1866 ms
+5 / 5 tests checked
+
+	Basic test                    : [OK]		1921 ms
+	Minus test                    : [OK]		1918 ms
+	Plus test                     : [OK]		2040 ms
+	Space test                    : [OK]		1715 ms
+	Space test                    : [OK]		1679 ms
+	Space minus test              : [OK]		1668 ms
+	Space plus test               : [OK]		1627 ms
+	Plus minus test               : [OK]		1491 ms
+	Void string test              : [OK]		1459 ms
+	Floating point number test    : [OK]		1709 ms
+	Non digit tail test           : [OK]		1706 ms
+	Int max test                  : [OK]		1540 ms
+	Int mini test                 : [OK]		1405 ms
+	Overflow test                 : [OK]		1328 ms
+	Underflow test                : [OK]		1228 ms
+	Zero test                     : [OK]		1184 ms
+	000 head test                 : [OK]		1201 ms
+17 / 17 tests checked
+

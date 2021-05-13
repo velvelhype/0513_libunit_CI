@@ -1,0 +1,9 @@
+	True OK test                         : [OK]		250 ms
+	True KO test                         : [KO]		135 ms
+	True segmentation fault test         : [SIGV]		129 ms
+	True bus error test                  : [BUSE]		135 ms
+	True timeout test                    : [TIMEOUT]	146 ms
+	True Floating Point Exception test   : [SIGFPE]		179 ms
+	True abrt test                       : [SIGABRT]	141 ms
+1 / 7 tests checked
+
