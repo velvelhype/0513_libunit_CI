@@ -5,5 +5,5 @@ int	main(void)
 {
 	ft_strlen_launcher();
 	ft_atoi_launcher();
-	return (0);
+	return (1);
 }

@@ -1,26 +1,26 @@
-	Basic test          : [OK]		3282 ms
-	Long string test    : [OK]		2374 ms
-	One letter test     : [OK]		2269 ms
-	Zero length test    : [OK]		2148 ms
-	Non-printable test  : [OK]		1866 ms
+	Basic test          : [OK]		2819 ms
+	Long string test    : [OK]		2336 ms
+	One letter test     : [OK]		2276 ms
+	Zero length test    : [OK]		2202 ms
+	Non-printable test  : [OK]		1879 ms
 5 / 5 tests checked
 
-	Basic test                    : [OK]		1921 ms
-	Minus test                    : [OK]		1918 ms
-	Plus test                     : [OK]		2040 ms
-	Space test                    : [OK]		1715 ms
-	Space test                    : [OK]		1679 ms
-	Space minus test              : [OK]		1668 ms
-	Space plus test               : [OK]		1627 ms
-	Plus minus test               : [OK]		1491 ms
-	Void string test              : [OK]		1459 ms
-	Floating point number test    : [OK]		1709 ms
-	Non digit tail test           : [OK]		1706 ms
-	Int max test                  : [OK]		1540 ms
-	Int mini test                 : [OK]		1405 ms
-	Overflow test                 : [OK]		1328 ms
-	Underflow test                : [OK]		1228 ms
-	Zero test                     : [OK]		1184 ms
-	000 head test                 : [OK]		1201 ms
+	Basic test                    : [OK]		1866 ms
+	Minus test                    : [OK]		1858 ms
+	Plus test                     : [OK]		1812 ms
+	Space test                    : [OK]		1585 ms
+	Space test                    : [OK]		1737 ms
+	Space minus test              : [OK]		2076 ms
+	Space plus test               : [OK]		1719 ms
+	Plus minus test               : [OK]		1486 ms
+	Void string test              : [OK]		1573 ms
+	Floating point number test    : [OK]		1504 ms
+	Non digit tail test           : [OK]		1485 ms
+	Int max test                  : [OK]		1344 ms
+	Int mini test                 : [OK]		1298 ms
+	Overflow test                 : [OK]		1285 ms
+	Underflow test                : [OK]		1277 ms
+	Zero test                     : [OK]		1215 ms
+	000 head test                 : [OK]		1196 ms
 17 / 17 tests checked
 
