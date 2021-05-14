@@ -4,6 +4,7 @@ int	ft_atoi_launcher(void);
 int	main(void)
 {
 	ft_strlen_launcher();
+	break;
 	ft_atoi_launcher();
 	return (1);
 }
