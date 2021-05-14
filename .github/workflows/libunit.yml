@@ -13,4 +13,4 @@ jobs:
 
       - name: run test
         shell: bash
-        run: cd real_tests && make re &&  make test
+        run: ls -lt && cd real_tests &&  make test
